@@ -1,7 +1,3 @@
-.debug{
-    border: 1px solid black;
-}
-
 img{
     width: 100%;
 }
@@ -13,12 +9,26 @@ img{
     margin: auto 0;
 }
 
+#portfolio .hr,
+#contact-me .hr{
+    color: black;
+    background-color: black;
+}
+
 /* HEADER */
 
 #header{
     background-color: rgb(44, 61, 80);
     color: white
 }
+
+/* START-BOOTSTRAP */
+
+#start-bootstrap .img-container{
+    max-width: 300px;
+    margin: 0 auto;
+}
+
 
 /* START-BOOTSTRAP ** & ** ABOUT */ 
 
@@ -28,11 +38,11 @@ img{
     color: white
 }
 
-/* PORTFOLIO */
+/* CONTACT ME */
 
-#portfolio .hr{
-    color: black;
-    background-color: black;
+.btn-color{
+    background-color: rgb(26, 188, 156);
+    color: white;
 }
 
 /* FOOTER */
