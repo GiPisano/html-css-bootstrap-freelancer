@@ -2,6 +2,51 @@
     border: 1px solid black;
 }
 
-body{
-    background-color: bisque;
+img{
+    width: 100%;
 }
+
+.hr{
+    width: 80px;
+    height: 2px;
+    background-color: white;
+    margin: auto 0;
+}
+
+/* HEADER */
+
+#header{
+    background-color: rgb(44, 61, 80);
+    color: white
+}
+
+/* START-BOOTSTRAP ** & ** ABOUT */ 
+
+#start-bootstrap,
+#about{
+    background-color: rgb(26, 188, 156);
+    color: white
+}
+
+/* PORTFOLIO */
+
+#portfolio .hr{
+    color: black;
+    background-color: black;
+}
+
+/* FOOTER */
+
+#info{
+    background-color: rgb(57, 84, 109);
+    color: white;
+}
+
+#footer-bottom{
+    background-color: rgb(44, 61, 80);
+    color: white;
+}
+
+
+
+
