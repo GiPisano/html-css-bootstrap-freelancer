@@ -54,7 +54,11 @@ img{
 
 #footer-bottom{
     background-color: rgb(44, 61, 80);
-    color: white;
+    color: white;  
+}
+
+#footer-bottom p{
+    margin-bottom: 0;
 }
 
 
